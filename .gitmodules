@@ -2,3 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "PacketLLM"]
+	path = PacketLLM
+	url = https://github.com/antoniczolgowski/packetllm
